@@ -1,0 +1,4 @@
+{
+    "HELLO": "Hello {{value}}",
+    "HELLO_SEC":"We're so glad that you with us!"
+}
